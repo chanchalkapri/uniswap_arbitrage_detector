@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files (safe to include)
+.DS_Store
+
+# Log files
+*.log
+price_log.csv
